@@ -209,4 +209,4 @@ TrojanHunter is provided as a full free version with all features and updates in
 Don't wait! Secure your PC today with TrojanHunter's **free download** and enjoy complete protection against trojans and malware.
 
 ---
-**Last updated:** 2026-09-17 07:18:36 UTC
+**Last updated:** 2026-09-17 13:08:34 UTC
